@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		B4B2DC5D271EEF0200CA48F6 /* BodyType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BodyType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B4BA2F09272D577400C55E58 /* Note.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Note.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B4BEAB1B27214A0600E4592C /* RotationSystem.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RotationSystem.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B4C6746E2720207E00422E46 /* Bowl.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Bowl.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -24,10 +25,19 @@
 		B4B2DC56271EEEE000CA48F6 = {
 			isa = PBXGroup;
 			children = (
+				B4BA2F08272D56D100C55E58 /* Note_2021.10.30 */,
 				B4BEAB1A272149D200E4592C /* RotationSystem_2021.10.24 */,
 				B4C6746D2720201400422E46 /* Bowl_2021.10.21 */,
 				B45BF471271EF19C00656414 /* BodyType_2021.10.20 */,
 			);
+			sourceTree = "<group>";
+		};
+		B4BA2F08272D56D100C55E58 /* Note_2021.10.30 */ = {
+			isa = PBXGroup;
+			children = (
+				B4BA2F09272D577400C55E58 /* Note.playground */,
+			);
+			path = Note_2021.10.30;
 			sourceTree = "<group>";
 		};
 		B4BEAB1A272149D200E4592C /* RotationSystem_2021.10.24 */ = {
